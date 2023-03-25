@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* .food {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5em;
+}
+.food-name {
+  margin: 1em 0;
+}
+.learn-more {
+  margin: 1em auto;
+  padding: 0.5em 1em;
+  border: 4px solid #000;
+  border-radius: 5px;
+  color: #ffffff;
+  text-decoration: none;
+  max-width: 200px;
+} */
